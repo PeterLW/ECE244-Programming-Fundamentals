@@ -1,0 +1,9 @@
+insert d 1 active
+insert b 1 active
+insert a 1 active
+insert c 1 active
+remove b
+remove a
+remove c
+printall
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1416100834 source:c:\users\lostwolf\desktop\lab5\main\dbentry.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+
+1416106012 source:c:\users\lostwolf\desktop\lab5\main\treedb.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416100834 source:c:\users\lostwolf\desktop\lab5\main\treenode.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+
+1416106012 source:c:\users\lostwolf\desktop\lab5\main\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416100834 c:\users\lostwolf\desktop\lab5\main\dbentry.h
+	<string>
+
+1416100834 c:\users\lostwolf\desktop\lab5\main\treenode.h
+	"DBentry.h"
+
+1416106028 c:\users\lostwolf\desktop\lab5\main\treedb.h
+	"TreeNode.h"
+	"DBentry.h"
+

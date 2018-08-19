@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1415263586 source:c:\users\lostwolf\desktop\c+temp\lab4xxx\main\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Resistor.h"
+	"Node.h"
+	<iomanip>
+	"ResistorList.h"
+	"NodeList.h"
+
+1415263570 c:\users\lostwolf\desktop\c+temp\lab4xxx\main\resistor.h
+	<string>
+	<iostream>
+
+1415263572 c:\users\lostwolf\desktop\c+temp\lab4xxx\main\node.h
+	<string>
+	<iostream>
+	"Resistor.h"
+	"ResistorList.h"
+
+1415263575 c:\users\lostwolf\desktop\c+temp\lab4xxx\main\resistorlist.h
+	"Resistor.h"
+	<string>
+	<iostream>
+
+1415263573 c:\users\lostwolf\desktop\c+temp\lab4xxx\main\nodelist.h
+	"ResistorList.h"
+	"Resistor.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1415263579 source:c:\users\lostwolf\desktop\c+temp\lab4xxx\main\node.cpp
+	"Node.h"
+	"Resistor.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1415263568 source:c:\users\lostwolf\desktop\c+temp\lab4xxx\main\nodelist.cpp
+	"Node.h"
+	"NodeList.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<math.h>
+	"ResistorList.h"
+	"Resistor.h"
+
+1415263577 source:c:\users\lostwolf\desktop\c+temp\lab4xxx\main\resistor.cpp
+	"Resistor.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1415264006 source:c:\users\lostwolf\desktop\c+temp\lab4xxx\main\resistorlist.cpp
+	"Resistor.h"
+	"ResistorList.h"
+	<iostream>
+	<string>
+	<iomanip>
+

@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1385289322 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\easygl.cpp
+	<iostream>
+	<cstdlib>
+	"easygl.h"
+	"graphics.h"
+	"ShapeArray.h"
+
+1385289322 c:\users\lostwolf\desktop\lab6\lab6_files\shape\easygl.h
+	<string>
+	"easygl_constants.h"
+
+1416745092 c:\users\lostwolf\desktop\lab6\lab6_files\shape\easygl_constants.h
+
+1385289322 c:\users\lostwolf\desktop\lab6\lab6_files\shape\graphics.h
+	<iostream>
+	<string>
+	"easygl_constants.h"
+
+1385289322 c:\users\lostwolf\desktop\lab6\lab6_files\shape\shapearray.h
+	<sstream>
+	"Shape.h"
+	"easygl.h"
+
+1385289322 c:\users\lostwolf\desktop\lab6\lab6_files\shape\shape.h
+	<string>
+	"easygl.h"
+
+1386370476 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\graphics.cpp
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<iostream>
+	<algorithm>
+	"graphics.h"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<windows.h>
+	<WindowsX.h>
+	"graphics.h"
+
+1385289322 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\shape.cpp
+	<iostream>
+	"Shape.h"
+
+1416939110 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\shapearray.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<assert.h>
+	<algorithm>
+	<string>
+	"easygl.h"
+	"ShapeArray.h"
+
+1385289322 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\triangle.cpp
+	<iostream>
+	<cmath>
+	"easygl.h"
+	"Triangle.h"
+
+1385289322 c:\users\lostwolf\desktop\lab6\lab6_files\shape\triangle.h
+	"Shape.h"
+	"easygl.h"
+
+1416978338 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\circle.cpp
+	<iostream>
+	<cmath>
+	"easygl.h"
+	"Circle.h"
+	"Shape.h"
+
+1416975905 c:\users\lostwolf\desktop\lab6\lab6_files\shape\circle.h
+	"Shape.h"
+	"easygl.h"
+
+1416975303 source:c:\users\lostwolf\desktop\lab6\lab6_files\shape\main.cpp
+	<iostream>
+	"Shape.h"
+	"ShapeArray.h"
+	"Triangle.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Polygon.h"
+
+1416975303 c:\users\lostwolf\desktop\lab6\lab6_files\shape\rectangle.h
+	"Shape.h"
+	"easygl.h"
+
+1416978981 c:\users\lostwolf\desktop\lab6\lab6_files\shape\polygon.h
+	"Shape.h"
+	"easygl.h"
+

@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1416100834 source:c:\users\lostwolf\desktop\lab5\main\dbentry.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+
+1416106028 "
+
+1416106012 source:c:\users\lostwolf\desktop\lab5\main\treedb.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416100834 
+
+1416100834 source:c:\users\lostwolf\desktop\lab5\main\treenode.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+
+1416100834 h"
+
+1416106012 source:c:\users\lostwolf\desktop\lab5\main\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<iomanip>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416100834 c:\users\lostwolf\desktop\lab5\main\dbentry.h
+	<string>
+
+1416100834 c:\users\lostwolf\desktop\lab5\main\treenode.h
+	"DBentry.h"
+
+1416106028 c:\users\lostwolf\desktop\lab5\main\treedb.h
+	"TreeNode.h"
+	"DBentry.h"
+
+1416273949 source:/u/a/mixuechu/Desktop/lab5/Main/DBentry.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+
+1416100834 /u/a/mixuechu/Desktop/lab5/Main/DBentry.h
+	<string>
+
+1416273949 source:/u/a/mixuechu/Desktop/lab5/Main/TreeNode.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+
+1416107089 /u/a/mixuechu/Desktop/lab5/Main/TreeNode.h
+	"DBentry.h"
+
+1416271194 source:/u/a/mixuechu/Desktop/lab5/Main/TreeDB.cpp
+	<iostream>
+	<string.h>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416268086 /u/a/mixuechu/Desktop/lab5/Main/TreeDB.h
+	"TreeNode.h"
+	"DBentry.h"
+
+1416271706 source:/u/a/mixuechu/Desktop/lab5/Main/Main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416273949 source:m:\lab52\main\dbentry.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+
+1416100834 m:\lab52\main\dbentry.h
+	<string>
+
+1416294641 source:m:\lab52\main\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416107089 m:\lab52\main\treenode.h
+	"DBentry.h"
+
+1416268086 m:\lab52\main\treedb.h
+	"TreeNode.h"
+	"DBentry.h"
+
+1416294658 source:m:\lab52\main\treedb.cpp
+	<iostream>
+	<string.h>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416294642 source:m:\lab52\main\treenode.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+
+1416273949 source:c:\users\lostwolf\desktop\lab52\main\dbentry.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+
+1416100834 c:\users\lostwolf\desktop\lab52\main\dbentry.h
+	<string>
+
+1416296039 source:c:\users\lostwolf\desktop\lab52\main\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
+1416107089 c:\users\lostwolf\desktop\lab52\main\treenode.h
+	"DBentry.h"
+
+1416268086 c:\users\lostwolf\desktop\lab52\main\treedb.h
+	"TreeNode.h"
+	"DBentry.h"
+
+1416294642 source:c:\users\lostwolf\desktop\lab52\main\treenode.cpp
+	<iostream>
+	<string>
+	"DBentry.h"
+	"TreeNode.h"
+
+1416373651 source:c:\users\lostwolf\desktop\lab52\main\treedb.cpp
+	<iostream>
+	<string.h>
+	"DBentry.h"
+	"TreeNode.h"
+	"TreeDB.h"
+
